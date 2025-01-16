@@ -1,0 +1,10 @@
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws7\Comp101-7-2206106-main\COMP110_FactorioCalculator\bin\Debug\COMP110_FactorioCalculator.exe.config
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws7\Comp101-7-2206106-main\COMP110_FactorioCalculator\bin\Debug\COMP110_FactorioCalculator.exe
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws7\Comp101-7-2206106-main\COMP110_FactorioCalculator\bin\Debug\COMP110_FactorioCalculator.pdb
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws7\Comp101-7-2206106-main\COMP110_FactorioCalculator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws7\Comp101-7-2206106-main\COMP110_FactorioCalculator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws7\Comp101-7-2206106-main\COMP110_FactorioCalculator\obj\Debug\COMP110_FactorioCalculator.csproj.AssemblyReference.cache
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws7\Comp101-7-2206106-main\COMP110_FactorioCalculator\obj\Debug\COMP110_FactorioCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws7\Comp101-7-2206106-main\COMP110_FactorioCalculator\obj\Debug\COMP110_.6860EDB1.Up2Date
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws7\Comp101-7-2206106-main\COMP110_FactorioCalculator\obj\Debug\COMP110_FactorioCalculator.exe
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws7\Comp101-7-2206106-main\COMP110_FactorioCalculator\obj\Debug\COMP110_FactorioCalculator.pdb

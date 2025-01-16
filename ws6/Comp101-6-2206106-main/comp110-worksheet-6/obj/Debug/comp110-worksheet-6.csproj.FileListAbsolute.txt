@@ -1,0 +1,7 @@
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws6\Comp101-6-2206106-main\comp110-worksheet-6\bin\Debug\comp110-worksheet-6.exe.config
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws6\Comp101-6-2206106-main\comp110-worksheet-6\bin\Debug\comp110-worksheet-6.exe
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws6\Comp101-6-2206106-main\comp110-worksheet-6\bin\Debug\comp110-worksheet-6.pdb
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws6\Comp101-6-2206106-main\comp110-worksheet-6\obj\Debug\comp110-worksheet-6.csproj.AssemblyReference.cache
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws6\Comp101-6-2206106-main\comp110-worksheet-6\obj\Debug\comp110-worksheet-6.csproj.CoreCompileInputs.cache
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws6\Comp101-6-2206106-main\comp110-worksheet-6\obj\Debug\comp110-worksheet-6.exe
+C:\Users\Louis\Downloads\Comp101-2206106-worksheets-main\Comp101-2206106-worksheets-main\ws6\Comp101-6-2206106-main\comp110-worksheet-6\obj\Debug\comp110-worksheet-6.pdb
